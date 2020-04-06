@@ -12,6 +12,7 @@ sudo apt -y install gcc \
                     libc6 \
                     gdb \
 					gdb-multiarch \
+                    xfce4-terminal \
 					tmux \
 					git \
 					foremost \
